@@ -21,6 +21,7 @@ h1{
 
 h2{
   font-size: 30px;
+  padding: 5px;
 }
 
 header{
@@ -38,6 +39,12 @@ header{
   width: 35%;
 }
 
+.content{
+  background-color: #d1ebd3;
+  border-radius: 20px;
+  padding: 10px;
+}
+
 footer{
   background-color: #31423c;
   color: white;
@@ -48,3 +55,4 @@ footer{
   right: 0;
   position: fixed;
 }
+
