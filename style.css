@@ -39,6 +39,10 @@ header{
   width: 35%;
 }
 
+.goal{
+  text-align: center;
+}
+
 .content{
   background-color: #d1ebd3;
   border-radius: 20px;
