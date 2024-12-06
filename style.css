@@ -19,6 +19,14 @@ h1{
   font-size: 30px;
 }
 
+nav ul{
+  display: flex;
+  justify-content: flex-end;
+  margin: 30px;
+  list-style: none;
+  font-size: 30px;
+}
+
 h2{
   font-size: 30px;
   padding: 5px;
@@ -60,3 +68,9 @@ footer{
   position: fixed;
 }
 
+a{
+  color: #d0f0a3;
+  text-decoration: none;
+  padding: 10px 40px;
+  
+}
